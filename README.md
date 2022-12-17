@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![instagram](![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white))
+![instagram](![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 <--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
