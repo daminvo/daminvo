@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **VueJs**
 
 - 📫 How to reach me **amine.baheddi.dz@gmail.com**
 
